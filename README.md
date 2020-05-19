@@ -8,5 +8,4 @@ spelerRepo.VoegSpelerToe(speler);
 ```
 #### databank:
 
-Reference-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![databank image1](images/databank1.PNG "databank image1")
